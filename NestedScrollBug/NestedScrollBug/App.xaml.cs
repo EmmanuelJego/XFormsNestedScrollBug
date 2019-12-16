@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace NestedScrollViewBugSample
+namespace NestedScrollBug
 {
     public partial class App : Application
     {
